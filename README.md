@@ -1,2 +1,3 @@
-# Python-Data-Science-and-Machine-Learning-Bootcamp
-Repo for Python Data Science and Machine Learning Bootcamp
+# Jupyter
+Repositorio utilizado para armazenar material criado durante os estudos do curso da Pierian Data e do livro da 
+Oreilly.
